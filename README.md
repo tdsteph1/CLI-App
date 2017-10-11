@@ -80,3 +80,10 @@ The 4k Televisoin added to Products table inside bamazon database with all of it
 **bamazonSupervisor**
 
 ![Image of product Table](https://github.com/tdsteph1/CLI-App/blob/master/images/pic14.png)
+
+Adding a new department and the over_head_cost
+
+
+![Image of product Table](https://github.com/tdsteph1/CLI-App/blob/master/images/pic15.png)
+
+department table being updated with user input from node.js app / bamazonSupervisor.js
