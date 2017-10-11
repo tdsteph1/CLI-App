@@ -76,3 +76,6 @@ then we display the table again which shows the newly added product called 4k Te
 ![Image of product Table](https://github.com/tdsteph1/CLI-App/blob/master/images/pic13.png)
 
 The 4k Televisoin added to Products table inside bamazon database with all of its columns.
+
+**bamazonSupervisor**
+![Image of product Table](https://github.com/tdsteph1/CLI-App/blob/master/images/pic14.png)
