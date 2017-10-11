@@ -9,3 +9,5 @@ As you can see I've created the database called **Bamazon** and a table called *
 * department_name
 * price (cost to customer)
 * stock_quantity (how much of the product is available in stores)
+
+
